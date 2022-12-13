@@ -1,8 +1,8 @@
 <img src="https://github.com/niemopen/oasis-open-project/blob/main/artwork/NIEM-NO-Logo-v5.png" width="200">
 
-# README
+# Conformance Targets Attribute Specification
 
-This repository is part of the NIEM Open Project.
+This repository is part of the NIEM Open Project.  It contains the NIEMOpen [Conformance Targets Attribute Specification (CTAS)](NIEM-CTAS-3.0-2014-07-31.pdf).  That document specifies an XML attribute that may occur within XML documents to establish a claim that the document conforms to a set of conformance targets.
 
 For more information on NIEMOpen, see the project's website at [www.niemopen.org](www.niemopen.org).
 
@@ -10,7 +10,7 @@ General questions about OASIS Open Projects may be directed to OASIS staff at pr
 
 # Other assets
 
-In addition to this GitHub organization, this project also makes use of other assets. 
+In addition to this GitHub repository, this project also makes use of other assets. 
 
 - The NIEMOpen website is at www.niemopen.org. The website contains news, announcements, and other information of interest about the project. 
 
